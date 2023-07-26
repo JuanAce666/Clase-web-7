@@ -1,0 +1,14 @@
+.color{
+    background-color: rgb(201, 74, 133);
+    color: white;
+    font-size: 30px;
+}
+.ocultar{
+    display: none;
+}
+.mostrar{
+    display: block;
+}
+.letra{
+    font-size: 60px;
+}
